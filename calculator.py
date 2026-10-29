@@ -20,4 +20,4 @@ def divide(a, b):
 
 
 def power(a, n):
-    return a * n
+    return a ** n
